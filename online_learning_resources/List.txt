@@ -1,0 +1,5 @@
+Amazing primer on pandas & data analytics with the best datasets I have come across for a course .. check it out if you are interested:
+https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html?s=09
+
+Materials Project Workshop:
+https://youtube.com/playlist?list=PLTjFYVNE7LTi6kGvPAF7DDQYj0KDL-vQL
