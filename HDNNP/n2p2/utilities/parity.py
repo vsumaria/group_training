@@ -1,4 +1,3 @@
-bash-3.2$ cat parity.py
 from ase.io import *
 from tqdm import tqdm
 import numpy as np
